@@ -3,6 +3,9 @@
   "description": "Saloonz salon website using TanStack React Start and Vite.",
   "private": true,
   "type": "module",
+  "engines": {
+  "node": "22.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
